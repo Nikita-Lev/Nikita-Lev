@@ -5,6 +5,6 @@ I’m currently engaged in forecasting the concentration of PM 2.5 in the atmosp
 And already behind:
 
 - :man_student: Supplementary professional education in machine learning and data analysis from Yandex, SibFU, Ingosstrakh. Qualification work — Visual analysis using interactive maps in the problem of taxi demand forecasting (time series forecasting).
+- :books: Familiar with libraries in Python: Pandas, NumPy, Matplotlib, Scipy, Sklearn, Statsmodels, XGboost, Seaborn, Plotly, Panel, Folium, PyQt5.
 - :desktop_computer: Desktop application for teaching students to solve equations of all types (PyQt5).
 - :hourglass: 5-year experience of participation in programming contests (C++).
-- :books: Familiar with libraries in Python: Pandas, NumPy, Matplotlib, Scipy, Sklearn, Statsmodels, XGboost, Seaborn, Plotly, Panel, Folium, PyQt5.

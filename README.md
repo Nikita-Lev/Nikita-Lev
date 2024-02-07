@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I'm Nikita, third-year student at the School of Mathematics and Computer Science of the Siberian Federal University.  
+Hello, I'm Nikita, four-year student at the School of Mathematics and Computer Science of the Siberian Federal University.  
 I’m currently engaged in forecasting the concentration of PM 2.5 in the atmosphere of Krasnoyarsk.  
 And already behind:
 
